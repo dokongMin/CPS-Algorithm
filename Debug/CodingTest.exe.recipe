@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\A\Desktop\CodingTest\CodingTest\Debug\CodingTest.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\A\Desktop\CodingTest\CodingTest\1.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\A\Desktop\CodingTest\CodingTest\2.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\A\Desktop\CodingTest\CodingTest\3.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\A\Desktop\CodingTest\CodingTest\4.c</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
